@@ -1,0 +1,170 @@
+[
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRider.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRider.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRider.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\CryptRiderProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\Grabber.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\Grabber.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\Mover.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\Mover.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TriggerComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\Source\\CryptRider\\TriggerComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\ggarg\\Documents\\Unreal Projects\\CryptRider\\.vscode\\compileCommands_CryptRider\\CryptRider.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
